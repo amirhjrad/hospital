@@ -1,0 +1,12 @@
+Name,Specialty,Visit Fee,Visit Duration,Wait Time Average,Days Available
+michael,Cardiology,190,30,25,Sat-7-10$Thu-12-17
+mohsen,Cardiology,200,20,30,Sat-7-9
+hadi,Orthopedics,250,60,45,Sun-9-11
+david,Orthopedics,250,30,30,Sun-10-11$Wed-16-20
+smith,Dermatology,180,60,20,Mon-9-11$Thu-13-15
+john,Neurology,210,60,40,Tue-10-11$Fri-8-10
+emily,Neurology,210,30,40,Fri-9-13
+sophia,Gastroenterology,230,20,30,Fri-8-10
+zarrin,Pulmonology,450,120,160,Thu-17-23
+moghadam,Ophthalmology,900,69,10,Fri-0-23
+johnson,Urology,1200,115,60,Mon-0-23
